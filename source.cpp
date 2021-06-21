@@ -1,8 +1,4 @@
 /*
-CS281-Spring 2020
-Phone Book
-Steven Awakem
-4/30/20
 This is a linked list program that will add a contact you can type in the first name, last name, phone number, and address of the person.
 the delete function does not delete the first contact for some reason
 */
